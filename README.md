@@ -4,7 +4,7 @@ I have been writing since I could first read. Long before money, metrics, or pla
 
 Those are different acts, and confusing them is how the work starts to feel transactional instead of necessary.
 
-This repository exists because I am stepping away from traditional ebook storefronts like Amazon. I'll still use them upon final drafts, but for now I want to focus more on creating the best possible versions first.
+This repository exists because I am stepping away from traditional ebook storefronts like Amazon. 
 
 Not because they are uniquely bad, but because they are structured around scale, ads, and constant output. 
 
@@ -41,3 +41,5 @@ If you found this repository through search, curiosity, or accident, you are wel
 I am choosing sustainability over grind, readers over dashboards, and permanence over noise.
 
 Thank You!!
+
+P.S. I'll still utilize the ebook stores for those who prefer their security.
