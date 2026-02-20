@@ -13,19 +13,6 @@ Amazon in particular is flooded with low effort content and algorithm amplified 
 Most author facing spaces are also built primarily for other writers rather than readers, which turns visibility into performance instead of connection.
 
 ---
-# WHY GITHUB
-
-GitHub is quieter, searchable, and direct. People come here looking for specific things, not to browse endlessly or chase trends. 
-
-When I published a highly specific Obsidian CSS guide here, it reached real users organically because it was useful. No ads. No funnels. No review chasing.
-
-**There is also no incentive here to manufacture credibility. On large storefronts, reviews are often paid for, exchanged, or socially pressured through closed groups.**
-
-*I am not interested in asking people to validate my work just so it can surface.**
-
-This repository is where my books live now.
-
----
 
 # ON ACCESS AND OWNERSHIP
 
@@ -37,7 +24,7 @@ At the same time, many readers are turning away from ebook stores altogether. Pr
 
 Most of the work here is free by choice. Files are provided primarily as EPUB, meant to be read, archived, and kept. I retain full copyright over all material in this repository.
 
-Print and audiobooks cost real money to produce and will continue to be sold elsewhere.
+Print and audiobooks cost real money to produce and will continue to be sold elsewhere. The narrators of the audiobooks deserve their cut!!
 
 ---
 
