@@ -42,4 +42,7 @@ I am choosing sustainability over grind, readers over dashboards, and permanence
 
 Thank You!!
 
-P.S. I'll still utilize the ebook stores for those who prefer their security.
+P.S. I'll still utilize the ebook stores for those who prefer their security. 
+
+# Update
+AMAZON WILL NO LONGER BE AVAILABLE.
